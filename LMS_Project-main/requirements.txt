@@ -1,0 +1,7 @@
+platformdirs
+psycopg2
+PyQt5
+PyQt5-Qt5
+PyQt5-stubs
+PyQt5_sip
+python-dotenv
